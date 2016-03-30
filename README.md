@@ -1,1 +1,1 @@
-# intellij-erlang-rebar3-test-distributions
+# Only work for `IDEA 2016.1`
