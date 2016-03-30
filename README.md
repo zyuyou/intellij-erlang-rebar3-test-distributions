@@ -1,0 +1,1 @@
+# intellij-erlang-rebar3-test-distributions
